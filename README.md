@@ -1,5 +1,5 @@
 # wonafan	
 
 this is the pinteresting sample application for
-[wonafan] (jonathanhaile.com)
-by [Jonathan](jonathanhaile.com)
+[wonafan] (http://www.jonathanhaile.com)
+by [Jonathan](http://www.jonathanhaile.com)
