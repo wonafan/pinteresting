@@ -1,8 +1,18 @@
-$navbar-default-link-color: #f1c40f;
-$navbar-default-bg: #3498db;
-$jumbotron-bg: #3498db;
-$font-family-serif: Georgia;
-$text-color: #f1c40f;
-$body-bg: #2980b9;
+@import url(http://fonts.googleapis.com/css?family=Oleo+Script:400,700);
+
+$body-bg: 												#2980b9;
+$font-family-monospace:						'Oleo+Script', Menlo, Monaco, Consolas, 'Courier New', monospace;
+$navbar-default-link-color: 			#f1c40f;
+$navbar-default-bg: 							#3498db;
+$jumbotron-bg: 										#3498db;
+$text-color: 											#f1c40f;
+
 @import "bootstrap";
 @import "bootstrap-sprockets";
+
+.center {
+		text-align: center;
+}
+.navbar-brand {
+	font-family-monospace:						'Oleo+Script', Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
