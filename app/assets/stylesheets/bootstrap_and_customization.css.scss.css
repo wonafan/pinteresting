@@ -6,12 +6,13 @@ $navbar-default-link-color: 			#f1c40f;
 $navbar-default-bg: 							#3498db;
 $jumbotron-bg: 										#3498db;
 $text-color: 											#f1c40f;
-
+$link_color:											#f1c40f;
 @import "bootstrap";
 @import "bootstrap-sprockets";
 
 h1 {
 	font-family:						'Oleo Script', Menlo, Monaco, Consolas, 'Courier New', monospace;
+	color:#f1c40f;
 }
 .center {
 		text-align: center;
