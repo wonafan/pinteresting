@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Oleo+Script:400,700);
 
 $body-bg: 												#2980b9;
-$font-family-monospace:						'Oleo+Script', Menlo, Monaco, Consolas, 'Courier New', monospace;
+
 $navbar-default-link-color: 			#f1c40f;
 $navbar-default-bg: 							#3498db;
 $jumbotron-bg: 										#3498db;
@@ -10,9 +10,12 @@ $text-color: 											#f1c40f;
 @import "bootstrap";
 @import "bootstrap-sprockets";
 
+h1 {
+	font-family:						'Oleo Script', Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
 .center {
 		text-align: center;
 }
 .navbar-brand {
-	font-family-monospace:						'Oleo+Script', Menlo, Monaco, Consolas, 'Courier New', monospace;
+	font-family:						'Oleo Script', Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
