@@ -9,6 +9,7 @@ $text-color: 											#f1c40f;
 $link_color:											#f39c12;
 @import "bootstrap";
 @import "bootstrap-sprockets";
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
 
 h1 {
 	font-family:						'Oleo Script', Menlo, Monaco, Consolas, 'Courier New', monospace;
